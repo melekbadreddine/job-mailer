@@ -1,0 +1,21 @@
+# 🔑 Sensitive Environment & Credentials
+.env
+.envrc
+*.env
+
+# 📄 Personal Attachments & Content Sources
+cv.md
+CV_Melek_BADREDDINE.pdf
+*.pdf
+
+# 📊 Automation Operational Logs & Progress Memory States
+*.log
+progress.json
+
+# 📋 Extracted Target Contact Fallbacks
+missing_contacts_report.csv
+
+# 🐹 Local Go Workspace Cache Data
+bin/
+pkg/
+.go/
